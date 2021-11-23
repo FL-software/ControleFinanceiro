@@ -19,3 +19,5 @@ Listagem de movimentações financeiras, categorizadas e com exibição do monta
 8.7 - Atualizar CRUD Movimentações, substituindo Inputs por Select (Categoria, Ação, Conta)
 
 Desenvolvido por Bruno Trindade e Leonardo Maia
+
+![image](https://user-images.githubusercontent.com/92823045/143142385-1398da41-793d-4669-9610-74cd5ffba9a5.png)
